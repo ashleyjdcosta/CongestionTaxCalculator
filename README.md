@@ -1,8 +1,8 @@
-# In this readme file I will briefly discuss about the implementation, and what fixes, packages, appraoches along with the Test cases that I make use of. 
+## In this readme file I will briefly discuss about the implementation, and what fixes, packages, appraoches along with the Test cases that I make use of. 
 
-# Technology selected: .Net Core standard 2.0, and in some of them due to package dependencies I have re-aligned the Versions accordingly(One challenge while re-aligning the version: The re-aligning of versioning caused some delay with targetted framework and so on)
+## Technology selected: .Net Core standard 2.0, and in some of them due to package dependencies I have re-aligned the Versions accordingly(One challenge while re-aligning the version: The re-aligning of versioning caused some delay with targetted framework and so on)
 
-# Author: Ashley Jeff Dcosta, Sr. Software Engineer. 
+## Author: Ashley Jeff Dcosta, Sr. Software Engineer. 
 
 ## Porjects used in the .Net Technology
 ## I have made use of three projects 
@@ -47,10 +47,10 @@
 ### I have made use of two appsettings.json file, one for the UnitTesting purposes, and the other for the WebAPI inorder to perform Server side validation! 
 
 
-# Estimated time spent for the overall completion was about 6.5 hours divided into 1.5, 1, 2, and 2 hours over the course of one week since I have a passion for programming and once I am engaged loose track of time :)  
+### Estimated time spent for the overall completion was about 6.5 hours divided into 1.5, 1, 2, and 2 hours over the course of one week since I have a passion for programming and once I am engaged loose track of time :)  
 
-# There could be lot that could improve this application and make it highly lucarative, following improvements that I can think of, 
-# 1. Adding a FrontEnd layer like an Angular project inroder to have a user friendly SPA(Single page applicaiton)
-# 2. As discussed even before, creating an RDMBS structure for the Data Structure, even for the transactions, mabye for audit purposes
-# 3. Add numerous Test Cases to test every positive, false postive, ... Scenarios
-# 4. Add more secuirty to the code  by implementing HTTPS SSL certificates 
+#### There could be lot that could improve this application and make it highly lucarative, following improvements that I can think of, 
+### 1. Adding a FrontEnd layer like an Angular project inroder to have a user friendly SPA(Single page applicaiton)
+### 2. As discussed even before, creating an RDMBS structure for the Data Structure, even for the transactions, mabye for audit purposes
+### 3. Add numerous Test Cases to test every positive, false postive, ... Scenarios
+### 4. Add more secuirty to the code  by implementing HTTPS SSL certificates 
