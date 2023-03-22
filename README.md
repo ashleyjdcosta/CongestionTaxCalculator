@@ -15,8 +15,8 @@ Technology selected: .Net Core standard 2.0, and in some of them due to package 
 ## The latest version of .Net web api has a swagger UI hence there would not be required for a Startup.cs nor a Postman tool inorder to test the API call. 
 
 ## Packages installed: 
-### 1. Json NewtonSoft from NuGets manager
-### 2. Microsoft Extensions Configurations
+ 1. Json NewtonSoft from NuGets manager
+ 2. Microsoft Extensions Configurations
 
 ## Approach that I have made use inorder to address the problem statement, and solve the bug fixes
  1. I first created a unit test project inorder to test all the methods
